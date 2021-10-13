@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Simon/AndroidStudioProjects/OneMore/app/src/main/res/layout/activity_add_session.xml" value="0.3307291666666667" />
+        <entry key="..\:/Users/Simon/AndroidStudioProjects/OneMore/app/src/main/res/layout/activity_main.xml" value="0.490036231884058" />
+        <entry key="..\:/Users/Simon/AndroidStudioProjects/OneMore/app/src/main/res/layout/activity_new_item.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/Simon/AndroidStudioProjects/OneMore/app/src/main/res/layout/activity_new_session.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/Simon/AndroidStudioProjects/OneMore/app/src/main/res/layout/activity_session.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/Simon/AndroidStudioProjects/OneMore/app/src/main/res/layout/add_session.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/Simon/AndroidStudioProjects/OneMore/app/src/main/res/layout/layout_toolbar.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/Simon/AndroidStudioProjects/OneMore/app/src/main/res/layout/sample_item_view.xml" value="0.5401041666666667" />
+        <entry key="..\:/Users/Simon/AndroidStudioProjects/OneMore/app/src/main/res/layout/view_item.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/Simon/AndroidStudioProjects/OneMore/app/src/main/res/layout/view_session.xml" value="0.3307291666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
